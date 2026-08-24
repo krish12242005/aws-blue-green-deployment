@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 🔵🟢 AWS Blue-Green Deployment
 
 
@@ -74,3 +75,6 @@ and validation.
 
 &#x20;                   Amazon S3
 
+=======
+# aws-blue-green-deployment
+>>>>>>> 9c7aab6debbcd4281acb99770051969b102a0122
